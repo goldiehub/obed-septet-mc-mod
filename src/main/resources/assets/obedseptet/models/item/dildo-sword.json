@@ -3,8 +3,8 @@
 	"parent": "dsword",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "dildo-sword",
-		"particle": "dildo-sword"
+		"0": "obedseptet:item/dildo-sword",
+		"particle": "obedseptet:item/dildo-sword"
 	},
 	"elements": [
 		{
